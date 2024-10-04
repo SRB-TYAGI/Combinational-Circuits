@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      buet
+HostName                       cadence
+ProcessIdentifier              15699
+ProcessCreationTime_UTC        1728049936
+ProcessCreationTime_Readable   Fri Oct  4 09:52:16 2024 EDT
+AppIdentifier                  /home/buet/cadence/IC615/tools/dfII/bin/32bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/buet/Desktop/Projects/Full_Adder_4_bit/Full_Adder_four/constraint/prop.cfg
+TimeEditLocked                 Fri Oct  4 10:16:15 2024 EDT
