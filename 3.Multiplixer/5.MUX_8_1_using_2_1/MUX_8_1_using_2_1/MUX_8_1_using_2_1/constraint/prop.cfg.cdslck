@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      buet
+HostName                       cadence
+ProcessIdentifier              18128
+ProcessCreationTime_UTC        1729590252
+ProcessCreationTime_Readable   Tue Oct 22 15:44:12 2024 BDT
+AppIdentifier                  /home/buet/cadence/IC615/tools/dfII/bin/32bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/buet/Desktop/Projects/MUX_8_1_using_2_1/MUX_8_1_using_2_1/constraint/prop.cfg
+TimeEditLocked                 Tue Oct 22 17:45:41 2024 BDT
